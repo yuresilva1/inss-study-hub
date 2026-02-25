@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EG digital</string>
+    <string name="title_activity_main">EG digital</string>
+    <string name="package_name">com.example.egdigital</string>
+    <string name="custom_url_scheme">com.example.egdigital</string>
+</resources>
